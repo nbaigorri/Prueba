@@ -1,0 +1,14 @@
+body {
+    background-color: blue;
+}
+
+h1 {
+    color: tomato;
+    align-items: center;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    color: burlywood;
+}
